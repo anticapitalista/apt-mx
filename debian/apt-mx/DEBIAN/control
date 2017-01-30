@@ -1,0 +1,9 @@
+Package: apt-mx
+Version: 0.1.5.9
+Architecture: all
+Maintainer: anticapitalista <antiX@operamail.com>
+Installed-Size: 67
+Section: system
+Priority: required
+Homepage: http://antix.mepis.org
+Description: apt defaults for MX-15.

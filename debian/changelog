@@ -1,3 +1,10 @@
+apt-mx (0.1.5.9) mx; urgency=medium
+
+  * Altered Frech and German mirror to localize-repo
+  * Added Swedish mirror to localize-repo
+
+ -- anticapitalista <antix@operamail.com>  Mon, 30 Jan 2017 15:11:20 +0200
+
 apt-mx (0.1.5.8) mx; urgency=medium
 
   * Add mirror location info and new -L --list option
